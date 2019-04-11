@@ -1,0 +1,19 @@
+.main-content{
+	margin-top: 1rem;
+}
+.main-content .card-header h3{
+	margin-bottom: 0;
+}
+.main-content .blog-header{
+	padding: 1rem;
+}
+.main-content .blog-content{
+	padding: 1rem;
+}
+.main-content .blog-content p{
+	margin-top: 1rem;
+	margin-bottom: 0;
+}
+.main-content .blog-content .btn{
+	margin-top: 1rem;
+}
