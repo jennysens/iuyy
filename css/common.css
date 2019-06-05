@@ -2,27 +2,21 @@
 h1,h2,h3,h4,h5,h6{
     font-family: 'Bree Serif', serif;
 }
-
-
 .main-content{
 	margin-top: 3rem;
+}
+.main-content .card{
+	margin-bottom: 2rem;
 }
 .main-content .card-header h3{
 	margin-bottom: 0;
 }
-.main-content .blog-header{
+.main-content .card-body{
 	padding: 1rem;
-}
-.main-content .blog-content{
-	padding: 1rem;
-}
-.main-content .blog-content p{
-	margin-top: 1rem;
-	margin-bottom: 0;
-}
-.main-content .blog-content .btn{
-	margin-top: 1rem;
 }
 .footer p{
     margin-bottom: 0;
+}
+.btn, .alert, input, select, textarea, .breadcrumb, .input-group-text, .card, .modal-content, .badge{
+	overflow: hidden;
 }
